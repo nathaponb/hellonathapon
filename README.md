@@ -1,10 +1,10 @@
 
 ### Hi there, I'm Nathapon 👋 
 
-## I'm a Developer, Astro-photographer, LOFI music producer
+## I'm a Developer, Photographer, LOFI music producer
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Master Python, Java
+- 🌱 I mainly focus on Mobile App. dev with React Native, Robotic, Data Science with Python,  Web dev with Typescript and Game dev with C#/Unity
+- 🥅 2022 Goals: Master Typescript, Python, Go, C#
 
 ### Connect with me:
 
