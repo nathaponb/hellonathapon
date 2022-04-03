@@ -27,7 +27,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Neovim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" />
-<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" />
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png" />
 
 
 [website]: https://hellonathapon.github.io/vue-portfolio/
