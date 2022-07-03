@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Nathapon 👋 
 
-## I'm a Web/Mobile Developer, Astro-Photographer
+## I'm a Web/Mobile Developer, Astro-Photographer, Pixel Artist
 
 
 ### Connect with me:
